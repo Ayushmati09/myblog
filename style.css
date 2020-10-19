@@ -1,0 +1,50 @@
+h1{
+	background-color: black;
+	color:lightseagreen;
+	padding:18px;
+	font-family: 'Commissioner', sans-serif;
+
+}
+h2{
+	color:black;
+	margin-left: 50px;
+}
+h5{
+	margin-left: 75px;
+}
+li{
+	margin-left: 75px;
+}
+p{
+	margin-left: 75px;
+	margin-right: 75px;
+}
+hr{
+	width: 97%;
+}
+
+header{
+	background-color: black;
+	padding:0.1%;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+
+}
+li a{
+	color:white;
+	text-decoration: none;
+	font-family: monserrat;
+
+}
+li a:hover{
+	color: lightseagreen
+}
+footer{
+	background-color: black;
+	color:white;
+	padding:0.01%;
+	text-align: center;
+}
